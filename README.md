@@ -1,8 +1,4 @@
 # 🎨 Generative AI Art Creator with Hugging Face Diffusers
-
-## 📌 Project Title
-**Generative AI Art Creator with Hugging Face Diffusers**
-
 ---
 
 ## 📝 Project Description
